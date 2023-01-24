@@ -39,7 +39,6 @@ We're bringing humanoid robots to the masses with the world’s first $20/hr. ge
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/ihQ1Jj" hidden title="Mailchimp - email marketing made easy and fun"><img hidden src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
     </div>
