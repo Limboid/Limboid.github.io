@@ -1,6 +1,6 @@
 # Limboid
 
-We're bringing humanoid robots to the masses with the world’s first $20/hr. general-purpose full-scale humanoid robot: the Limboid. Our vision stems from a handful of fundamental robotics technology breakthroughs we've achieved on a small scale and a novel *intelligent* programming paradigm that we are pioneering. We are excited about the revolutionary oppertunities this robot will unlock for billions, and we hope to share much progress with you in the coming months.
+We're bringing humanoid robots to the masses with the world’s first $1000 general-purpose full-scale humanoid robot: the Limboid. Our vision stems from a handful of fundamental robotics technology breakthroughs we've achieved coupled with the explosion of development in AI. We are excited about the revolutionary oppertunities this robot will unlock for billions, and we hope to release our first prototype very soon...
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
@@ -12,7 +12,7 @@ We're bringing humanoid robots to the masses with the world’s first $20/hr. ge
 <div id="mc_embed_signup">
     <form action="https://gmail.us21.list-manage.com/subscribe/post?u=1ddfc01327460d2a186cfa5d6&amp;id=65d1f32b87&amp;f_id=000bcce1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-        <h2>Subscribe for Weekly Updates</h2>
+        <h2>Subscribe Updates</h2>
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -26,7 +26,7 @@ We're bringing humanoid robots to the masses with the world’s first $20/hr. ge
 	<span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Interests </label>
+	<label for="mce-LNAME">Interests (for tailored updates) </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 	<span id="mce-LNAME-HELPERTEXT" class="helper_text">for personalized updates</span>
 </div>
