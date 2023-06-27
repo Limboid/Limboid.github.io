@@ -1,6 +1,6 @@
 # Limboid
 
-We're bringing humanoid robots to the masses with the world’s first $1000 general-purpose full-scale humanoid robot: the Limboid. Our vision stems from a handful of fundamental robotics technology breakthroughs we've achieved coupled with the explosion of development in AI. We are excited about the revolutionary oppertunities this robot will unlock for billions, and we hope to release our first prototype very soon...
+We are bringing humanoid robots to the masses with the world’s first $1000 general-purpose full-scale humanoid robot: the Limboid. Our ambition stems from a handful of fundamental robotics technology breakthroughs we've achieved coupled with the explosion of development in AI. We are excited about the revolutionary opportunities this robot will unlock for billions, and aim to scale to 1 billion+ robots by the end of 2024.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
